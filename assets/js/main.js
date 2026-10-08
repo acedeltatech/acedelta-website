@@ -25,7 +25,7 @@
       try{
         if(location.protocol.indexOf('http')===0){
           var pg = document.body.dataset.page || 'about';
-          history.replaceState(null,'', l==='zh' ? '/zh-tw/'+pg : '/en/'+pg);
+          history.replaceState(null, '', location.pathname + (l === 'zh' ? '?lang=zh' : '?lang=en') + location.hash);
         }
       }catch(e){}
     }
@@ -41,8 +41,8 @@
       if(qs === 'zh' || qs === 'en') saved = qs;
     }catch(e){}
     var path = location.pathname;
-    if(path.indexOf('/zh-tw')===0) saved = 'zh';
-    else if(path.indexOf('/en/')===0) saved = 'en';
+    if (path.indexOf('/zh-tw/') === 0) saved = 'zh';
+    else if (path.indexOf('/en/') === 0) saved = 'en';
     if(saved==='zh') setLang('zh', false);
   })();
 
