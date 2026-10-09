@@ -25,7 +25,7 @@
       try{
         if(location.protocol.indexOf('http')===0){
           var pg = document.body.dataset.page || 'about';
-          history.replaceState(null,'', l==='zh' ? '/zh-tw/'+pg : '/en/'+pg);
+          ;/* URL sync removed: static hosting */
         }
       }catch(e){}
     }
