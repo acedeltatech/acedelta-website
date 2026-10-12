@@ -42,3 +42,6 @@
   未部署。
 - **v21（2026-10-12）RC 最終**：P0 全項 — JSON-LD WebPage（@id/url=/ja/、inLanguage:ja、日文）＋BreadcrumbList 完整移除；#contact 死錨→#rfq；Logo→/ja/；EN 頁面連結加（英語）標示；JP 為主標語義（H1=日文、英文為 tipline）；RFQ 欄位四項新增＋honeypot＋時間陷阱＋aria-live 狀態（伺服器確認前不顯示成功）＋隱私聲明＋FORM_ENDPOINT 設計（Formspree 註冊後填入即為 working endpoint；未設時誠實 fallback）；效能 — repo 圖片 WebP 化＋lazy loading（hero fetchpriority=high）；P3 — EN 五頁 hreflang=ja 互相對向＋sitemap 加 /ja/＋Broken-link report／Mobile QA checklist／Integration plan 三份文件入包。未部署。
 - **v24（2026-10-12）**：修復「index 無法連到日文頁」— 根因：/ja/ 已部署但 EN 五頁的語言切換器漏了「日本語」按鈕（v19 僅在日文頁做了切換器）。五頁 lang-sw 全部補上 hreflang="ja" 的日本語連結（→ /ja/）。未部署 — 上傳 v24 後生效。
+- **v25（2026-10-13）日文版 About Us 追加**（ja/about.html、lang=ja、canonical=/ja/about、hreflang 互相對向）：專業日語譯文（先端熱マネジメント材料基準）— ビジョン／ミッション／価値観（A・C・E 三欄）／企業関係（ハイサン・プレイス本社＋帝昇投資）＋日文 CTA。EN about.html 的「日本語」按鈕同步改指 /ja/about。未部署 — 上傳後生效。
+- **v25（2026-10-13）日文版 About Us 追加**（ja/about.html）：專業日語譯文（先端熱マネジメント材料基準）— ビジョン／ミッション／価値観（A・C・E）／企業関係（ハイサン・プレイス本社＋帝昇投資）＋日文 CTA。EN about.html「日本語」按鈕已改指 /ja/about。未部署。
+- **v26（2026-10-13）日文品牌文案精修**（依 20 年品牌顧問標準之指定文案）：HERO 副標「先端材料。世界をつなぐ力。責任ある進化。」＋新增技術副標「熱を制し、技術の未来を支える。」；Vision 改「先端熱マネジメント技術と世界をつなぐ架け橋…」；Mission 廢止「イノベーションを冷却する」改「熱課題を解決する」；三項價值觀去片假名直譯（果敢な挑戦と俊敏な行動／法令遵守への責任と継続的改善／人と組織の可能性を引き出し…）；04 標題改「企業概要・事業ネットワーク」（嚴格區分法律關係）。EN／繁中未動。ja-copy-before-after.md 入包。未部署。
