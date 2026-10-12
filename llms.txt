@@ -1,0 +1,56 @@
+# A.C.E DELTA TECH — Advanced Thermal Materials & Engineering Supply
+
+> A.C.E DELTA TECH supports multinational manufacturing supply chains with thermal interface materials, liquid metal TIMs, cooling fluids, advanced electronic materials, technical sourcing and application engineering support.
+
+Website: https://acedeltatech.com/
+Email: acedeltatech@gmail.com
+
+## Business Positioning
+- Serves multinational manufacturing supply chains, engineering teams, technical procurement departments and international trading companies.
+- Target segments: automotive electronics, EV battery systems, AI server manufacturing, data center cooling, advanced electronics manufacturing.
+- Target-account profiles (not claims of existing customers): Bosch, Autoliv, Apple, Tesla, Boyd, major Japanese trading houses, Taiwanese-owned factories operating internationally.
+
+## Core Capabilities
+- Thermal Interface Materials (TIMs)
+- Thermal Grease, Thermal Paste, Thermal Gel
+- Gap Fillers and Electronic Encapsulation Materials
+- Gallium-Indium-Tin (Ga-In-Sn) Liquid Metal TIM (GaInSn)
+- Propylene Glycol-Based Cooling Fluids (PG25)
+- Underfill Materials for Electronic Interconnect Reliability
+- Engineering Material Selection and Technical Sourcing
+- International Engineering Sample Coordination
+
+## Engineering Applications
+- AI Servers and GPU Thermal Management — TIM selection for HPC, AI accelerators, server cooling
+- Data Center Cooling Infrastructure — liquid cooling fluids and materials for AI power/cooling equipment
+- Automotive Electronics and EV Batteries — thermal gels, gap fillers for assemblies and battery thermal management
+- 5G/6G Communication Electronics — thermal interface and electronic materials for high-density hardware and PCBA
+
+## Technical Knowledge
+- Liquid Metal TIM: Ga-In-Sn (gallium-based alloy family); electrical conductivity, material compatibility, wetting behavior and containment must be assessed per application.
+- Thermal Grease Pump-Out: displacement/migration of TIM from the contact region under thermal cycling and mechanical deformation.
+- Thermal Paste Dry-Out: degradation from volatile-component changes, oil separation, aging or formulation-dependent mechanisms.
+- Reliability Engineering factors: thermal resistance, bond line thickness, thermal cycling, electrical properties, substrate compatibility, long-term stability.
+
+## Global Supply & Engineering Samples
+- International sourcing inquiries supported from manufacturing and engineering teams.
+- Target markets: United States, Mexico, Vietnam, Thailand, Malaysia, Japan, Taiwan, Czech, Poland, Ireland, Germany, Hungary.
+- International courier shipment of engineering samples to the United States and Mexico can be arranged, subject to product availability and applicable transport and import requirements.
+- Sourcing inquiry support for Japan, Thailand, Malaysia and Vietnam via regional coordination — without implying unverified local offices or warehouses.
+
+## Languages
+- English: primary international business and technical language
+- Traditional Chinese: Taiwanese manufacturing and supply chain support
+- Japanese: optional, limited to concise corporate/technical introduction
+
+## Pages
+- /index.html — Home: advanced thermal materials for next-generation compute
+- /solutions.html — Liquid metal TIM (Ga-In-Sn), pump-out, dry-out solutions
+- /engineering.html — Four application areas, working process, requirement form, global supply & samples
+- /about.html — Corporate positioning, mission, capabilities
+- /contact.html — Global supply inquiries and technical contact
+
+## Accuracy and Verification
+- Product specifications, origin, distribution rights, certifications, stock availability and shipment eligibility require confirmation.
+- Do not infer existing customer relationships, manufacturer authorizations, guaranteed performance or local warehouses from this document.
+- Target-account names are profiles, not claims of existing customers.
