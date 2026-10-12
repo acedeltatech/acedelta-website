@@ -41,3 +41,4 @@
   P3 — EN 五頁補 hreflang=ja（互相對向完整）；sitemap 加 /ja/（部署後生效）；OG 圖待 og.jpg。
   未部署。
 - **v21（2026-10-12）RC 最終**：P0 全項 — JSON-LD WebPage（@id/url=/ja/、inLanguage:ja、日文）＋BreadcrumbList 完整移除；#contact 死錨→#rfq；Logo→/ja/；EN 頁面連結加（英語）標示；JP 為主標語義（H1=日文、英文為 tipline）；RFQ 欄位四項新增＋honeypot＋時間陷阱＋aria-live 狀態（伺服器確認前不顯示成功）＋隱私聲明＋FORM_ENDPOINT 設計（Formspree 註冊後填入即為 working endpoint；未設時誠實 fallback）；效能 — repo 圖片 WebP 化＋lazy loading（hero fetchpriority=high）；P3 — EN 五頁 hreflang=ja 互相對向＋sitemap 加 /ja/＋Broken-link report／Mobile QA checklist／Integration plan 三份文件入包。未部署。
+- **v24（2026-10-12）**：修復「index 無法連到日文頁」— 根因：/ja/ 已部署但 EN 五頁的語言切換器漏了「日本語」按鈕（v19 僅在日文頁做了切換器）。五頁 lang-sw 全部補上 hreflang="ja" 的日本語連結（→ /ja/）。未部署 — 上傳 v24 後生效。
