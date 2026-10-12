@@ -38,6 +38,33 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://acedeltatech.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://acedeltatech.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://acedeltatech.com/?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://acedeltatech.com/ja/"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://acedeltatech.com/ja/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://acedeltatech.com/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://acedeltatech.com/about.html?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://acedeltatech.com/ja/about"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://acedeltatech.com/ja/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://acedeltatech.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://acedeltatech.com/contact.html?lang=zh"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://acedeltatech.com/ja/contact"/>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://acedeltatech.com/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://acedeltatech.com/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://acedeltatech.com/zh-tw"/>
