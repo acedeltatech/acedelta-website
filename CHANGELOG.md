@@ -50,3 +50,10 @@
 - **v28.1（2026-10-13）禁則処理修正**：hero-lead 單字孤行（す。）— text-wrap:balance + line-break:strict 修復。
 - **v28.1（2026-10-13）禁則処理修正**：hero-lead 單字孤行（す。）— text-wrap:balance + line-break:strict 加入共用樣式表（.hero-lead 實際位於外部 CSS，前輪補在頁面層無效，本輪已修在正確位置）。
 - **v29（2026-10-13）Corporate Brand Statement 統一**：三語核定標語落位 — Home Hero 品牌主張行＋全站 Footer brand-line＋Contact 語帶更新（繁中舊語「工程精準。全球串聯。負責任的進展。」→「可靠技術・全球信任・共創未來」；日文頁新增「確かな技術。世界をつなぐ信頼。共に拓く未来。」）。舊標語殘留稽核：零。頁面專屬日文副標四句全數保留。DELTAA 重複朗讀修正（aria 移除、Logo 未動）。未部署。
+- **v30（2026-10-13）**：sitemap 增補 /ja/、/ja/about、/ja/contact 三個 URL（含 hreflang 三向）；新增 ja-seo-geo-guide.md（查詢管道/行動計畫/預期）。
+- **v31（2026-10-13）**：日文頁「（英語）」標示移除；**五頁日文完全串連**（ja/ 五頁互相連結、EN 頁的日本語按鈕改為對應頁路由：/ja/、/ja/solutions、/ja/about、/ja/contact、/ja/engineering）；**ja/solutions.html**（液体金属TIMソリューション：ポンプアウト／ドライアウト概念図＋Ga-In-Sn 說明＋FAQ 日文問答追加）與 **ja/engineering.html**（技術支援・材料調達：四應用卡／工程流程六步／日文需求表單／グローバルサプライ）新增。未部署。
+- **v31（2026-10-13）**：日文頁「（英語）」標示全數移除；**五頁日文完全串連**（ja/ index・solutions・about・contact・engineering 互相連結；EN 五頁的「日本語」按鈕改為對應頁路由）；**ja/solutions.html**（液体金属TIMソリューション：ポンプアウト／ドライアウト概念図＋Ga-In-Sn 說明＋日文 FAQ）與 **ja/engineering.html**（技術支援・材料調達：四應用卡／六步流程／日文表單／グローバルサプライ）新增。未部署。
+- **v31（2026-10-13）**：日文頁「（英語）」標示移除；五頁日文完全串連（ja/ 五頁互連＋EN 頁日本語按鈕對應頁路由）；ja/solutions.html（液体金属TIMソリューション＋Ga-In-Sn 說明＋日文 FAQ）與 ja/engineering.html（技術支援・材料調達：四應用卡／六步流程／日文表單）新增。未部署。
+- **v31（2026-10-13）**：日文頁「（英語）」標示移除；五頁日文完全串連（ja/ 五頁互連＋EN 五頁日本語按鈕對應頁路由）；ja/solutions.html（液体金属TIMソリューション：ポンプアウト／ドライアウト＋Ga-In-Sn 說明＋日文 FAQ）與 ja/engineering.html（技術支援・材料調達：四應用卡／六步流程／日文表單／グローバルサプライ）新增。未部署。
+- **v31（2026-10-13）**：日文頁「（英語）」標示移除；五頁日文完全串連（ja/ 五頁互連＋EN 五頁日本語按鈕對應頁路由 /ja/、/ja/solutions、/ja/about、/ja/contact、/ja/engineering）；ja/solutions.html（液体金属TIMソリューション：ポンプアウト／ドライアウト＋Ga-In-Sn＋日文 FAQ）與 ja/engineering.html（技術支援・材料調達：四應用卡／六步流程／日文表單／グローバルサプライ）新增。未部署。
+- **v32（2026-10-13）**：ja/solutions 新增「なぜ熱が勝負を分けるのか」行銷區 — **原創角色**迷你四驅風格漫畫插圖兩張（AI 生成、無既有 IP 角色；致敬四驅文化但設計全新）＋熱瓶頸＝勝負概念的日文文案＋合規註記（実際の車両・モーター仕様とは関係ありません）＋詢問導線。注：爆走兄弟 IP 使用與大學教授顧問背書未採用（版權與不實背書風險），以原創方案替代。未部署。
